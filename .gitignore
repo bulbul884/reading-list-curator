@@ -3,3 +3,5 @@
 __pycache__/
 *.pyc
 reading_list.db
+*.db
+.adk/
